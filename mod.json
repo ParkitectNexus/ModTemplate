@@ -1,0 +1,8 @@
+{
+    "BaseDir": "YourModFolder",
+    "ClassName": "Main",
+    "IsDevelopment": true,
+    "Name": "Your First Mod",
+    "NameSpace": "YourMod",
+    "Project": "YourMod.csproj"
+}
