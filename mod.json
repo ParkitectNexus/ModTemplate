@@ -1,6 +1,5 @@
 {
     "BaseDir": "YourModFolder",
-    "EntryPoint": "YourMod.Main",
     "IsDevelopment": true,
     "Name": "Your First Mod",
     "Project": "YourMod.csproj"
