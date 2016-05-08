@@ -2,5 +2,6 @@
     "BaseDir": "YourModFolder",
     "IsDevelopment": true,
     "Name": "Your First Mod",
-    "Project": "YourMod.csproj"
+    "Project": "YourMod.csproj",
+    "Priority": 0
 }
